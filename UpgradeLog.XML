@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="diffbycs">
+</Property><Property Name="ソリューション ファイル" Value="D:\temp\diffbycs12\diffbycs.sln">
+</Property><Property Name="Date" Value="2010年7月20日">
+</Property><Property Name="Time" Value="22:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="diffbycs.sln" Description="ファイルは正常に D:\temp\diffbycs12\Backup\diffbycs.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="diffbycs.csproj" Description="プロジェクト ファイルは正常に D:\temp\diffbycs12\Backup\diffbycs.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="AboutBox.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\AboutBox.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="AssemblyInfo.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="Document.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\Document.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="FnameBar.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\FnameBar.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="Form1.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\Form1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="Line.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\Line.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="List.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\List.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="openFileDlg.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\openFileDlg.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="OptionDlg.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\OptionDlg.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="RecentFileList.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\RecentFileList.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="Section.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\Section.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="State.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\State.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="Tree.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\Tree.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="View.cs" Description="ファイルは正常に D:\temp\diffbycs12\Backup\View.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="App.ico" Description="ファイルは正常に D:\temp\diffbycs12\Backup\App.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="AboutBox.resx" Description="ファイルは正常に D:\temp\diffbycs12\Backup\AboutBox.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="FnameBar.resx" Description="ファイルは正常に D:\temp\diffbycs12\Backup\FnameBar.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="Form1.resx" Description="ファイルは正常に D:\temp\diffbycs12\Backup\Form1.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="openFileDlg.resx" Description="ファイルは正常に D:\temp\diffbycs12\Backup\openFileDlg.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="OptionDlg.resx" Description="ファイルは正常に D:\temp\diffbycs12\Backup\OptionDlg.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="RecentFileList.resx" Description="ファイルは正常に D:\temp\diffbycs12\Backup\RecentFileList.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="View.resx" Description="ファイルは正常に D:\temp\diffbycs12\Backup\View.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="diffbycs.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="diffbycs" Source="diffbycs.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="diffbycs.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="diffbycs.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="diffbycs" Source="diffbycs.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

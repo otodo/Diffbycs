@@ -1,0 +1,14 @@
+D:\temp\diffbycs12\bin\Debug\diffbycs.exe
+D:\temp\diffbycs12\bin\Debug\diffbycs.pdb
+D:\temp\diffbycs12\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\diffbycs12\obj\Debug\csdiff.AboutBox.resources
+D:\temp\diffbycs12\obj\Debug\csdiff.FnameBar.resources
+D:\temp\diffbycs12\obj\Debug\csdiff.Form1.resources
+D:\temp\diffbycs12\obj\Debug\csdiff.openFileDlg.resources
+D:\temp\diffbycs12\obj\Debug\csdiff.OptionDlg.resources
+D:\temp\diffbycs12\obj\Debug\adelieworks.RecentFileList.resources
+D:\temp\diffbycs12\obj\Debug\csdiff.LineIndex.resources
+D:\temp\diffbycs12\obj\Debug\GenerateResource.read.1.tlog
+D:\temp\diffbycs12\obj\Debug\GenerateResource.write.1.tlog
+D:\temp\diffbycs12\obj\Debug\diffbycs.exe
+D:\temp\diffbycs12\obj\Debug\diffbycs.pdb
